@@ -6,8 +6,6 @@ Python + PyQt6 desktop application for generating Excel reports and converting t
 
 Watch the walkthrough: [Demo video (Google Drive)](https://drive.google.com/file/d/1TIn_zCyqJ8mJYb6pV283uCWSPnr3-zAw/view?usp=drive_link)
 
-[![Play Demo Video](path/to/your/thumbnail.png)](https://drive.google.com/file/d/1TIn_zCyqJ8mJYb6pV283uCWSPnr3-zAw/view?usp=drive_link)
-
 
 ## Setup
 
