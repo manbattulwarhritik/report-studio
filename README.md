@@ -2,6 +2,10 @@
 
 Python + PyQt6 desktop application for generating Excel reports and converting them to PDF.
 
+## Demo
+
+Watch the walkthrough: [Demo video (Google Drive)](https://drive.google.com/file/d/1NWpyDS81mEN8h-DJ1nYCuRxHVzOnDkQJ/view?usp=drive_link)
+
 ## Setup
 
 ```bash
@@ -52,4 +56,3 @@ pytest
 
 ## Current milestone
 
-Milestone 5 complete — History, integration, and polish.
